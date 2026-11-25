@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ЖАК Катышуу</string>
+    <string name="college_full_name">Жалал-Абад колледжи</string>
+    <string name="college_subtitle">Студенттердин сабакка катышуусун көзөмөлдөө системасы</string>
+    <string name="nav_home">Башкы</string>
+    <string name="nav_attendance">Жоктоо</string>
+    <string name="nav_analytics">Аналитика</string>
+    <string name="nav_groups">Группалар</string>
+    <string name="nav_admin">Админ</string>
+    <string name="error_invalid_gmail">Жарактуу @gmail.com дарегин киргизиңиз</string>
+    <string name="error_empty_name">Аты-жөнүңүздү жазыңыз</string>
+</resources>

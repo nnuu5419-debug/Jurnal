@@ -1,0 +1,6 @@
+{
+  "name": "ЖАК Катышуу",
+  "description": "Жалал-Абад колледжи үчүн студенттердин жумалык сабакка катышуусун көзөмөлдөө, аналитика жана админ панели бар мобилдик тиркеме.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
